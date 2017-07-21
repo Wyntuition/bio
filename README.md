@@ -1,5 +1,3 @@
-# bio: Wyn Van Devanter
-
 Wyn is currently a managing consultant & senior developer with Excella Consulting.  He has extensive experience in various industries with the analysis, design and implementation of software, largely with web-based applications on the .NET stack. He strives to be a good software craftsman using TDD, continuous integration, and Scrum. He has spoken various events and conducted hands-on workshops around the region, as he enjoys working with the community.
 
 Lately, Wyn has been working in Angular, and has been deep diving into ASP.NET Core and Docker.
