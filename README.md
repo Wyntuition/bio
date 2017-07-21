@@ -6,6 +6,8 @@ Lately, Wyn has been working in Angular, and has been deep diving into ASP.NET C
 
 Speaking Engagements:
 
+I have spoken on topics including software architectures, automated testing, ASP.NET Core, Docker and AWS around the mid-atlantic region:
+
 * DC .NET User Group
 * CapArea .NET User Group
 * Tech Talk DC
