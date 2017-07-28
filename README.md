@@ -2,26 +2,8 @@ Wyn is currently a managing consultant & senior developer with [Excella Consulti
 
 Lately, Wyn has been working in Angular, and has been deep diving into ASP.NET Core and Docker.
 
-Speaking Engagements:
+*Speaking Engagements*
 
-I have spoken on topics including software architectures, automated testing, ASP.NET Core, Docker and AWS around the mid-atlantic region:
+I have spoken on topics including software architectures, automated testing, ASP.NET Core, Docker and AWS around the Mid-Atlantic region at various industry groups including DC .NET User Group, CapArea .NET User Group, Tech Talk DC, DC/MD/VA MS Devs, AgileDC, IIBA Conference DC, Baltimore Patterns and Practices, Central Maryland .NET Users Group, Pittsburgh .NET User Group
 
-* DC .NET User Group
-* CapArea .NET User Group
-* Tech Talk DC
-* DC/MD/VA MS Devs
-* AgileDC
-* IIBA Conference DC
-* Baltimore Patterns and Practices
-* Central Maryland .NET Users Group
-* Pittsburgh .NET User Group
-
-[Twitter](https://twitter.com/wynv)
-
-[Github](https://github.com/wyntuition)
-
-[Blogs at excella.com](https://www.excella.com/insights/author/wynv)
-
-[Slide Decks](http://www.slideshare.net/wynvandevanter)
-
-[LinkedIn](https://www.linkedin.com/in/wyntuition)
+[Twitter](https://twitter.com/wynv) | [Github](https://github.com/wyntuition) | [Blog](https://www.excella.com/insights/author/wynv) | [Slide Decks](http://www.slideshare.net/wynvandevanter) | [LinkedIn](https://www.linkedin.com/in/wyntuition)
