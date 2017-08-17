@@ -2,9 +2,9 @@ Wyn is currently a managing consultant & senior developer with [Excella Consulti
 
 Lately, Wyn has been working in Angular, and has been deep diving into ASP.NET Core and Docker.
 
-### Community Involvement
+## Community Involvement
 
-Topics:
+Topics I've spoken on:
 
 * How to Introduce Docker into your Organization
 * The Development Workflow with Docker
@@ -13,12 +13,12 @@ Topics:
 * Getting an ASP.NET Core & Docker-Based App Production-Ready
 * .NET Standard
 * Modern Software Architectures
-* Automated Testing Strategy
+* DevOps & Automated Testing Strategy
 * Automated Acceptance Testing in ASP.NET
 * Automated Acceptance Testing Practices & Pitfalls
 * Optimizing Performance with your ORM
 
-Wyn has spoken around the Mid-Atlantic region including:
+Groups I've spoken at around the region:
 
 * DC .NET User Group
 * CapArea .NET User Group
@@ -35,10 +35,10 @@ I have developed and conducted these workshops:
 * [Getting Started with ASP.NET Core 4-hour Workshop](https://github.com/excellalabs/aspnetcore-workshop-kit)
 * [Using Docker in the Development Workflow 2-hour Workshop](https://github.com/excellalabs/docker-workshop-1)
 
-### Open Source
+## Open Source
 
 * [Skillustrator](github.com/excellalabs/skillustrator): open source app I co-developed in ASP.NET Core, Angular & Docker to track the skills in an organization or on a project
 
-### Reach Out
+## Reach Out
 
 [Twitter](https://twitter.com/wynv) | [Github](https://github.com/wyntuition) | [Blog](https://www.excella.com/insights/author/wynv) | [Slide Decks](http://www.slideshare.net/wynvandevanter) | [LinkedIn](https://www.linkedin.com/in/wyntuition)
