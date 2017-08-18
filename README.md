@@ -10,6 +10,7 @@ Topics I've spoken on:
 * The Development Workflow with Docker
 * Docker Overview
 * Deploying Docker-based Apps
+* An Overview of ASP.NET Core
 * Getting an ASP.NET Core & Docker-Based App Production-Ready
 * .NET Standard
 * Modern Software Architectures
@@ -29,6 +30,7 @@ Groups I've spoken at around the region:
 * Baltimore Patterns and Practices
 * Central Maryland .NET Users Group
 * Pittsburgh .NET User Group
+* Black Code Collective
 
 I have developed and conducted these workshops:
 
