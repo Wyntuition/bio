@@ -43,4 +43,4 @@ I have developed and conducted these workshops:
 
 ### Reach Out
 
-[Twitter](https://twitter.com/wynv) | [Github](https://github.com/wyntuition) | [Blog](https://www.excella.com/insights/author/wynv) | [Slide Decks](http://www.slideshare.net/wynvandevanter) | [LinkedIn](https://www.linkedin.com/in/wyntuition)
+[Twitter](https://twitter.com/wynv) &bull; [Github](https://github.com/wyntuition) &bull; [Blog](https://www.excella.com/insights/author/wynv) &bull; [Slide Decks](http://www.slideshare.net/wynvandevanter) &bull; [LinkedIn](https://www.linkedin.com/in/wyntuition)
