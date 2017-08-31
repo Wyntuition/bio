@@ -10,6 +10,7 @@ Topics I've spoken on:
 * The Development Workflow with Docker
 * Docker Overview
 * Deploying Docker-based Apps
+* EC2 Container Service Overview with CI
 * An Overview of ASP.NET Core
 * Getting an ASP.NET Core & Docker-Based App Production-Ready
 * .NET Standard
@@ -21,6 +22,7 @@ Topics I've spoken on:
 
 Groups I've spoken at around the region:
 
+* Arlington AWS Meetup
 * DC .NET User Group
 * CapArea .NET User Group
 * Tech Talk DC
