@@ -1,4 +1,4 @@
-Wyn is currently a managing consultant & senior developer with [Excella Consulting](https://excella.com). He has extensive experience in various industries with the analysis, design and implementation of software, largely with web-based applications on .NET & JavaScript technologies. He also works heavily with DevOps, cloud and container-based approaches. He strives to be a good software craftsman using XP practices, continuous integration, and Agile. He enjoys being involved in the community and has spoken various events around the region, conducted hands-on workshops and contributed to open source. He is a co-coordinator of the Tech Talk DC User Group and a former coordinator of the ALT.NET DC user group.
+Wyn is currently a managing consultant & senior developer with [Excella Consulting](https://excella.com). He has extensive experience in various industries with the analysis, design and implementation of software, largely with web-based applications on .NET & JavaScript technologies. He also works heavily with DevOps, cloud and container-based approaches. He strives to be a good software craftsman using XP practices, continuous integration, and Agile. He enjoys being involved in the community and has spoken at various events around the region, conducted hands-on workshops and contributed to open source. He is a co-coordinator of the Tech Talk DC User Group and a former coordinator of the ALT.NET DC user group.
 
 Lately, Wyn has been working in Angular, and has been deep diving into ASP.NET Core and Docker.
 
@@ -20,7 +20,7 @@ Topics I've spoken on:
 * Automated Acceptance Testing Practices & Pitfalls
 * Optimizing Performance with your ORM
 
-Groups I've spoken at around the region:
+Groups I've spoken at:
 
 * Arlington AWS Meetup
 * DC .NET User Group
