@@ -4,7 +4,7 @@ Lately, Wyn has been working in Angular, and has been deep diving into ASP.NET C
 
 ### Community Involvement
 
-Topics I've spoken on:
+Topics spoken on:
 
 * How to Introduce Docker into your Organization
 * The Development Workflow with Docker
@@ -20,7 +20,7 @@ Topics I've spoken on:
 * Automated Acceptance Testing Practices & Pitfalls
 * Optimizing Performance with your ORM
 
-Groups I've spoken at:
+Groups spoken at:
 
 * Arlington AWS Meetup
 * DC .NET User Group
@@ -34,7 +34,7 @@ Groups I've spoken at:
 * Pittsburgh .NET User Group
 * Black Code Collective
 
-I have developed and conducted these workshops:
+Workshops (developed and conducted):
 
 * [Getting Started with ASP.NET Core 4-hour Workshop](https://github.com/excellalabs/aspnetcore-workshop-kit)
 * [Using Docker in the Development Workflow 2-hour Workshop](https://github.com/excellalabs/docker-workshop-1)
