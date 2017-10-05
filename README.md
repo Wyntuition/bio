@@ -8,15 +8,16 @@ Topics spoken on:
 
 * How to Introduce Docker into your Organization
 * The Development Workflow with Docker
+* [The ASP.NET Core Development Workflow with Docker](https://www.slideshare.net/wynvandevanter/aspnet-core-developer-workflow-with-docker)
 * Docker Overview
 * Deploying Docker-based Apps
 * EC2 Container Service Overview with CI
-* An Overview of ASP.NET Core
+* [.NET Core vs. .NET Framework](https://www.slideshare.net/wynvandevanter/net-core-10-vs-net-framework)
 * Getting an ASP.NET Core & Docker-Based App Production-Ready
 * .NET Standard
 * Modern Software Architectures
 * DevOps & Automated Testing Strategy
-* Automated Acceptance Testing in ASP.NET
+* [Automated Acceptance Testing in ASP.NET](https://www.slideshare.net/wynvandevanter/automated-acceptance-tests-in-net)
 * Automated Acceptance Testing Practices & Pitfalls
 * Optimizing Performance with your ORM
 
