@@ -37,8 +37,8 @@ Groups spoken at:
 
 Workshops (developed and conducted):
 
-* [Getting Started with ASP.NET Core 4-hour Workshop](https://github.com/excellalabs/aspnetcore-workshop-kit)
-* [Using Docker in the Development Workflow 2-hour Workshop](https://github.com/excellalabs/docker-workshop-1)
+* [Getting Started with ASP.NET Core 4-hour Workshop](https://github.com/wyntuition/aspnetcore-workshop-kit)
+* [Using Docker in the Development Workflow 2-hour Workshop](https://github.com/wyntuition/docker-workshop-1)
 
 ### Open Source
 
