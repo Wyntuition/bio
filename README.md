@@ -25,6 +25,7 @@ Topics spoken on:
 Groups spoken at:
 
 * Arlington AWS Meetup
+* NoVA Code Camp
 * CapArea .NET User Group
 * DC .NET User Group
 * Tech Talk DC
