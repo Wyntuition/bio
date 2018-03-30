@@ -52,4 +52,4 @@ Workshops (developed and conducted):
 
 [Twitter](https://twitter.com/wynv) &bull; [Github](https://github.com/wyntuition) &bull; [Blog](https://www.excella.com/insights/author/wynv) &bull; [Slide Decks](http://www.slideshare.net/wynvandevanter) &bull; [LinkedIn](https://www.linkedin.com/in/wyntuition)
 
-![Photo of Wyn][wyn-portrait.jpeg]
+![Photo of Wyn](wyn-portrait.jpeg)
