@@ -8,6 +8,7 @@ Lately, Wyn has been deep diving into Docker, Kubernetes, DevOps, ASP.NET Core a
 
 Topics spoken on:
 
+* [Channel9 Interview: Building a containerized cloud-based app using ASP.NET Core, Azure and Docker](https://channel9.msdn.com/Blogs/DevRadio/DR1745?term=Excella)
 * An Overview of Container Management
 * How to Introduce Docker into your Organization
 * The Development Workflow with Docker
