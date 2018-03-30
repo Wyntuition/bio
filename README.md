@@ -1,13 +1,14 @@
-Wyn is currently a managing consultant & senior developer with [Excella Consulting](https://excella.com). He has extensive experience in various industries with the analysis, design and implementation of software, largely with web-based applications on open source and .NET technologies. He also works heavily with DevOps, cloud and container-based approaches. He strives to be a good software craftsman by using XP practices. 
+Wyn is currently a managing consultant & senior developer with [Excella Consulting](https://excella.com). He has extensive experience in various industries with the analysis, design and implementation of software, largely with web-based applications on open source technologies. He also works heavily with DevOps, cloud and container-based approaches. He strives to be a good software craftsman by using XP practices. 
 
 He enjoys being involved in the community and has spoken at various events around the region, conducted hands-on workshops and contributed to open source. He is a co-coordinator of the Tech Talk DC User Group and a former coordinator of the ALT.NET DC user group.
 
-Lately, Wyn has been deep diving into ASP.NET Core, Docker and DevOps. For fun Wyn likes playing music, skiing and conversation.
+Lately, Wyn has been deep diving into Docker, Kubernetes, DevOps, ASP.NET Core and Scala. For fun Wyn likes playing music, skiing and conversation.
 
 ### Community Involvement
 
 Topics spoken on:
 
+* An Overview of Container Management
 * How to Introduce Docker into your Organization
 * The Development Workflow with Docker
 * Docker Overview
