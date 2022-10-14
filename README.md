@@ -1,10 +1,10 @@
-Wyn is currently a managing consultant & senior developer with Excella, an agile tech firm. He has experience in various industries and government with the architecture, design and implementation of software, largely with web-based applications. He also works heavily with DevOps, cloud and container-based architectures. He strives to be a good software craftsman by using XP practices. He enjoys being involved in the community and regularly speaks and conducts workshops at events around the region. For fun Wyn likes playing music, skiing and conversation of intrigue.
+Wyn is currently doing independent work, and pursuing a masters in Computer Science at Vanderbilt. He was formally a lead engineer working on the cryptocurrency exchange at Bullish, and before that a managing consultant & senior developer with Excella, a software consulting comapny, for many years. He has experience in various industries and government, with the architecture, design and implementation of software products, largely with web-based applications. He also works heavily with DevOps, cloud and container-based architectures. He strives to be a good software craftsman by using XP practices. He enjoys being involved in the community and regularly speaks and conducts workshops at events around the region. For fun Wyn likes playing music, skiing, camping and conversation of intrigue.
 
-Lately, Wyn has been deep diving into Docker, Kubernetes, ASP.NET Core and Scala.
+Lately, Wyn has been working with Java, functional programming, Kubernetes, Python and Go. 
 
 ### Community Involvement
 
-Topics spoken on:
+Topics spoken on ([slide decks](https://www.slideshare.net/wynvandevanter/presentations)):
 
 * [Channel9 Interview: Building a containerized cloud-based app using ASP.NET Core, Azure and Docker](https://channel9.msdn.com/Blogs/DevRadio/DR1745?term=Excella)
 * An Overview of Container Management
@@ -48,6 +48,4 @@ Workshops (developed and conducted):
 
 ### Reach Out
 
-[Twitter](https://twitter.com/wynv) &bull; [Github](https://github.com/wyntuition) &bull; [Blog](https://www.excella.com/insights/author/wynv) &bull; [Slide Decks](http://www.slideshare.net/wynvandevanter) &bull; [LinkedIn](https://www.linkedin.com/in/wyntuition)
-
-![Photo of Wyn](wyn-portrait.jpeg)
+[Twitter](https://twitter.com/wynv) &bull; [Github](https://github.com/wyntuition) &bull; [Slide Decks](http://www.slideshare.net/wynvandevanter) &bull; [LinkedIn](https://www.linkedin.com/in/wyntuition)
